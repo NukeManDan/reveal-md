@@ -14,6 +14,8 @@ Once upon a time.
 
 [<](#/)
 
+[broken... #chapter-2b](#chapter-2b)
+
 ---
 
 ## Chapter 2a
@@ -29,6 +31,10 @@ Fairy.
 Tale.
 
 [<](#/)
+
+[works? #chapter-1](#chapter-1)
+
+[also works? #chapter-3](#chapter-3)
 
 ---
 
